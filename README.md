@@ -15,7 +15,7 @@ Run the following commands from your terminal:
 <table width="100%">
   <tbody>
     <tr>
-      <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206411105-4a64ada8-2a9c-4804-ad59-59302a6a82c5.jpg"/></td>
+      <td width="1%"><img src="./images/analysis"/></td>
       <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417378-9da25e84-bf21-401c-bf23-bce3b352311e.jpg"/></td>
        <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417548-787625af-f4b1-4c9d-8aac-fa9bd7c47bfb.jpg"/></td>
     </tr>
